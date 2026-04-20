@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abodezoabi/neetcode-submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +95,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
