@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
