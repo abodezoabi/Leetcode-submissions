@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abodezoabi/neetcode-submissions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abodezoabi/neetcode-submissions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -116,4 +118,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
