@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abodezoabi/neetcode-submissions/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/abodezoabi/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abodezoabi/neetcode-submissions/tree/master/0056-merge-intervals) |
@@ -96,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/abodezoabi/neetcode-submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/abodezoabi/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/abodezoabi/neetcode-submissions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/abodezoabi/neetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -209,6 +211,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abodezoabi/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/abodezoabi/neetcode-submissions/tree/master/0200-number-of-islands) |
 ## Doubly-Linked List
 |  |
