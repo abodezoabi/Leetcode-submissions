@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0189-rotate-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abodezoabi/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abodezoabi/neetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/abodezoabi/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/abodezoabi/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -213,4 +214,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abodezoabi/neetcode-submissions/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/abodezoabi/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
