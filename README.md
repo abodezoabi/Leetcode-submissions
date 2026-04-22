@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0056-merge-intervals](https://github.com/abodezoabi/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abodezoabi/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abodezoabi/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abodezoabi/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abodezoabi/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abodezoabi/neetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -99,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/abodezoabi/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/abodezoabi/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/abodezoabi/neetcode-submissions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/abodezoabi/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abodezoabi/neetcode-submissions/tree/master/0242-valid-anagram) |
@@ -207,6 +209,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abodezoabi/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/abodezoabi/neetcode-submissions/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
