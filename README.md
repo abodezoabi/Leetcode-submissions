@@ -118,6 +118,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/abodezoabi/neetcode-submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abodezoabi/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -150,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/abodezoabi/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abodezoabi/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -228,4 +230,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abodezoabi/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abodezoabi/neetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
