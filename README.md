@@ -131,6 +131,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0027-remove-element](https://github.com/abodezoabi/neetcode-submissions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abodezoabi/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/abodezoabi/neetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -143,6 +144,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/abodezoabi/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/abodezoabi/neetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abodezoabi/neetcode-submissions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
