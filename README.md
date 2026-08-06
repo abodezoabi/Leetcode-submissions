@@ -129,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abodezoabi/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abodezoabi/neetcode-submissions/tree/master/0027-remove-element) |
@@ -143,6 +144,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abodezoabi/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/abodezoabi/neetcode-submissions/tree/master/0020-valid-parentheses) |
@@ -153,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abodezoabi/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/abodezoabi/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abodezoabi/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -242,4 +245,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abodezoabi/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abodezoabi/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
