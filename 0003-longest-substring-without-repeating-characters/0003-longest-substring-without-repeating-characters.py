@@ -10,7 +10,7 @@ class Solution:
         maxlen = 0 
 
         for r in range(len(s)):
-            while s[r] in charset:
+            while s[r] in charset: # keep removing till not any dup in set then restart
                 charset.remove(s[l])
                 l+=1
             charset.add(s[r])
