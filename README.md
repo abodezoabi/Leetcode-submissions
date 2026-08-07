@@ -111,6 +111,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/abodezoabi/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/abodezoabi/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/abodezoabi/neetcode-submissions/tree/master/0146-lru-cache) |
 ## Math
@@ -128,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/abodezoabi/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
