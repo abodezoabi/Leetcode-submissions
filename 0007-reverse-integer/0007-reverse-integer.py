@@ -1,30 +1,19 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        i=0
-        summ=0
-        sign = 1
+        sign = -1 if x < 0 else 1
+        x = abs(x)
 
-        if x<0:
-            sign = -1
-            x= -1*x
+        result = 0
 
-        string = str(x)
+        while x != 0:
+            digit = x % 10
+            result = result * 10 + digit
+            x //= 10
 
-        for ch in string:
-            summ = summ + (int(ch)*(10**i))
-            i+=1
+        result *= sign
 
-        MIN_INT = -2**31
-        MAX_INT = 2**31 - 1
-
-        # After you calculate your 'result'
-        if summ < MIN_INT or summ > MAX_INT:
+        if result < -2**31 or result > 2**31 - 1:
             return 0
-        
-        return summ*sign
-        
 
-             
-
-
+        return result
         
