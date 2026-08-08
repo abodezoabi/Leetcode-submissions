@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/abodezoabi/neetcode-submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/abodezoabi/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abodezoabi/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abodezoabi/neetcode-submissions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/abodezoabi/neetcode-submissions/tree/master/0036-valid-sudoku) |
@@ -152,6 +153,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0005-longest-palindromic-substring](https://github.com/abodezoabi/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/abodezoabi/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abodezoabi/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/abodezoabi/neetcode-submissions/tree/master/0125-valid-palindrome) |
@@ -268,4 +270,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abodezoabi/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abodezoabi/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
