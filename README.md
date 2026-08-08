@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0036-valid-sudoku](https://github.com/abodezoabi/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/abodezoabi/neetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abodezoabi/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abodezoabi/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abodezoabi/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abodezoabi/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abodezoabi/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/abodezoabi/neetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abodezoabi/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abodezoabi/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
@@ -206,6 +208,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abodezoabi/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/abodezoabi/neetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/abodezoabi/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
